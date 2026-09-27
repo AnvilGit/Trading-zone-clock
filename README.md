@@ -2,7 +2,7 @@
 
 A small Tkinter desktop clock for keeping Tokyo, London, and New York local times visible while you trade. Each market shows a large 24-hour clock, its local date, and the current timezone abbreviation, including daylight-saving changes.
 
-![Screenshot of the World Trading Clocks app](world-trading-clocks.png)
+![Screenshot of the World Trading Clocks app]()
 
 ## Requirements
 
